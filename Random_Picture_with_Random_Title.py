@@ -1,3 +1,5 @@
+# This is the IBM Python Course Project to Create Fake Album Cover 
+
 from IPython.display import Image as IPythonImage
 from IPython.display import display
 from PIL import Image
